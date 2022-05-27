@@ -1,0 +1,259 @@
+numaresources                                      numaresources-controller-manager-68b4594b44-c8kl7                    1/1     Running                  0             2d21h
+numaresources                                      numaresourcesoperator-worker-6wbjn                                   2/2     Running                  0             9d
+numaresources                                      numaresourcesoperator-worker-gntmt                                   2/2     Running                  0             9d
+numaresources                                      secondary-scheduler-66dfbbddc7-8bg7l                                 1/1     Running                  0             23h
+openshift-apiserver-operator                       openshift-apiserver-operator-5f88697795-ndvrz                        1/1     Running                  1 (16d ago)   16d
+openshift-apiserver                                apiserver-689d47b5fc-9mhkz                                           2/2     Running                  0             16d
+openshift-apiserver                                apiserver-689d47b5fc-jj6p9                                           2/2     Running                  0             16d
+openshift-apiserver                                apiserver-689d47b5fc-vdlhk                                           2/2     Running                  0             16d
+openshift-authentication-operator                  authentication-operator-7bd669894f-gt4cp                             1/1     Running                  1 (16d ago)   16d
+openshift-authentication                           oauth-openshift-68f8fccb57-jf2hm                                     1/1     Running                  0             16d
+openshift-authentication                           oauth-openshift-68f8fccb57-jgwwj                                     1/1     Running                  0             16d
+openshift-authentication                           oauth-openshift-68f8fccb57-v56jj                                     1/1     Running                  0             16d
+openshift-cloud-controller-manager-operator        cluster-cloud-controller-manager-operator-7fb5c48c8d-26xmb           2/2     Running                  0             16d
+openshift-cloud-credential-operator                cloud-credential-operator-67459fd75c-zwkwg                           2/2     Running                  0             16d
+openshift-cluster-machine-approver                 machine-approver-59747d59-mfvp8                                      2/2     Running                  0             16d
+openshift-cluster-node-tuning-operator             cluster-node-tuning-operator-5dfff5f64b-8zmzr                        1/1     Running                  0             16d
+openshift-cluster-node-tuning-operator             tuned-75mmz                                                          1/1     Running                  0             16d
+openshift-cluster-node-tuning-operator             tuned-lrlrx                                                          1/1     Running                  9             16d
+openshift-cluster-node-tuning-operator             tuned-pfmf7                                                          1/1     Running                  0             16d
+openshift-cluster-node-tuning-operator             tuned-x2dqf                                                          1/1     Running                  0             16d
+openshift-cluster-node-tuning-operator             tuned-xcz2n                                                          1/1     Running                  9             16d
+openshift-cluster-samples-operator                 cluster-samples-operator-56c696b89b-krfp4                            2/2     Running                  0             16d
+openshift-cluster-storage-operator                 cluster-storage-operator-65f46cb7d7-hjsjm                            1/1     Running                  1 (16d ago)   16d
+openshift-cluster-storage-operator                 csi-snapshot-controller-868bc48b4c-9t82g                             1/1     Running                  0             16d
+openshift-cluster-storage-operator                 csi-snapshot-controller-868bc48b4c-sgcxm                             1/1     Running                  0             16d
+openshift-cluster-storage-operator                 csi-snapshot-controller-operator-77d8847d54-76pzn                    1/1     Running                  0             16d
+openshift-cluster-storage-operator                 csi-snapshot-webhook-84f4c4d7bc-2jkc7                                1/1     Running                  0             16d
+openshift-cluster-storage-operator                 csi-snapshot-webhook-84f4c4d7bc-zvk88                                1/1     Running                  0             16d
+openshift-cluster-version                          cluster-version-operator-55c4f4d4f4-nlm2c                            1/1     Running                  0             16d
+openshift-config-operator                          openshift-config-operator-b45b6d6f7-4ppd4                            1/1     Running                  1 (16d ago)   16d
+openshift-console-operator                         console-operator-765fd847c6-mxkdp                                    1/1     Running                  0             16d
+openshift-console                                  console-78bf6f6fdb-kvjzk                                             1/1     Running                  1 (16d ago)   16d
+openshift-console                                  console-78bf6f6fdb-wnznb                                             1/1     Running                  1 (16d ago)   16d
+openshift-console                                  downloads-777fbb54b5-tx8sl                                           1/1     Running                  0             16d
+openshift-console                                  downloads-777fbb54b5-xz5qg                                           1/1     Running                  0             16d
+openshift-controller-manager-operator              openshift-controller-manager-operator-688cc6f8c6-rh5dn               1/1     Running                  1 (16d ago)   16d
+openshift-controller-manager                       controller-manager-5nt85                                             1/1     Running                  0             27h
+openshift-controller-manager                       controller-manager-bzz9s                                             1/1     Running                  0             27h
+openshift-controller-manager                       controller-manager-jwqdp                                             1/1     Running                  0             27h
+openshift-dns-operator                             dns-operator-6b9895bbbf-mfpzv                                        2/2     Running                  0             16d
+openshift-dns                                      dns-default-77kqz                                                    2/2     Running                  0             16d
+openshift-dns                                      dns-default-8b5cf                                                    2/2     Running                  18            16d
+openshift-dns                                      dns-default-fznt7                                                    2/2     Running                  0             16d
+openshift-dns                                      dns-default-lqhk5                                                    2/2     Running                  18            16d
+openshift-dns                                      dns-default-tw79f                                                    2/2     Running                  0             16d
+openshift-dns                                      node-resolver-9tqf2                                                  1/1     Running                  9             16d
+openshift-dns                                      node-resolver-bnpkx                                                  1/1     Running                  0             16d
+openshift-dns                                      node-resolver-cb67h                                                  1/1     Running                  0             16d
+openshift-dns                                      node-resolver-cqtv2                                                  1/1     Running                  9             16d
+openshift-dns                                      node-resolver-ttt62                                                  1/1     Running                  0             16d
+openshift-etcd-operator                            etcd-operator-77859568c6-4d76m                                       1/1     Running                  1 (16d ago)   16d
+openshift-etcd                                     etcd-dhcp-55-184.lab.eng.tlv2.redhat.com                             4/4     Running                  0             16d
+openshift-etcd                                     etcd-dhcp-55-198.lab.eng.tlv2.redhat.com                             4/4     Running                  0             16d
+openshift-etcd                                     etcd-dhcp-55-238.lab.eng.tlv2.redhat.com                             4/4     Running                  0             16d
+openshift-etcd                                     etcd-quorum-guard-7d8dc4bd99-kb5mx                                   1/1     Running                  0             16d
+openshift-etcd                                     etcd-quorum-guard-7d8dc4bd99-kmp4x                                   1/1     Running                  0             16d
+openshift-etcd                                     etcd-quorum-guard-7d8dc4bd99-m8pvv                                   1/1     Running                  0             16d
+openshift-etcd                                     installer-6-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     installer-8-dhcp-55-184.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     installer-8-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     installer-8-dhcp-55-238.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     installer-9-dhcp-55-184.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     installer-9-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     installer-9-dhcp-55-238.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-etcd                                     revision-pruner-8-dhcp-55-184.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-etcd                                     revision-pruner-8-dhcp-55-198.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-etcd                                     revision-pruner-8-dhcp-55-238.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-etcd                                     revision-pruner-9-dhcp-55-184.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-etcd                                     revision-pruner-9-dhcp-55-198.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-etcd                                     revision-pruner-9-dhcp-55-238.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-image-registry                           cluster-image-registry-operator-69d4968f7f-g9gvv                     1/1     Running                  0             16d
+openshift-image-registry                           image-pruner-27444960-lsqc8                                          0/1     Completed                0             2d12h
+openshift-image-registry                           image-pruner-27446400-l95cd                                          0/1     Completed                0             36h
+openshift-image-registry                           image-pruner-27447840-lprlg                                          0/1     Completed                0             12h
+openshift-image-registry                           image-registry-56bbfb649f-zqhkg                                      1/1     Running                  0             9d
+openshift-image-registry                           node-ca-8n24d                                                        1/1     Running                  0             16d
+openshift-image-registry                           node-ca-bvnct                                                        1/1     Running                  9             16d
+openshift-image-registry                           node-ca-n79pt                                                        1/1     Running                  0             16d
+openshift-image-registry                           node-ca-tzxqm                                                        1/1     Running                  9             16d
+openshift-image-registry                           node-ca-xlfcr                                                        1/1     Running                  0             16d
+openshift-ingress-canary                           ingress-canary-456dp                                                 1/1     Running                  9             16d
+openshift-ingress-canary                           ingress-canary-shxrv                                                 1/1     Running                  9             16d
+openshift-ingress-operator                         ingress-operator-5b5869957-cfvjh                                     2/2     Running                  2 (16d ago)   16d
+openshift-ingress                                  router-default-7df789767f-2qs25                                      1/1     Running                  0             9d
+openshift-ingress                                  router-default-7df789767f-wvdp4                                      1/1     Running                  0             9d
+openshift-insights                                 insights-operator-7647c4f8c-dqs8b                                    1/1     Running                  1 (16d ago)   16d
+openshift-kni-infra                                coredns-cnfdt04.lab.eng.tlv2.redhat.com                              2/2     Running                  18            16d
+openshift-kni-infra                                coredns-cnfdt05.lab.eng.tlv2.redhat.com                              2/2     Running                  18            16d
+openshift-kni-infra                                coredns-dhcp-55-184.lab.eng.tlv2.redhat.com                          2/2     Running                  0             16d
+openshift-kni-infra                                coredns-dhcp-55-198.lab.eng.tlv2.redhat.com                          2/2     Running                  0             16d
+openshift-kni-infra                                coredns-dhcp-55-238.lab.eng.tlv2.redhat.com                          2/2     Running                  0             16d
+openshift-kni-infra                                haproxy-dhcp-55-184.lab.eng.tlv2.redhat.com                          2/2     Running                  0             16d
+openshift-kni-infra                                haproxy-dhcp-55-198.lab.eng.tlv2.redhat.com                          2/2     Running                  0             16d
+openshift-kni-infra                                haproxy-dhcp-55-238.lab.eng.tlv2.redhat.com                          2/2     Running                  0             16d
+openshift-kni-infra                                keepalived-cnfdt04.lab.eng.tlv2.redhat.com                           2/2     Running                  18            16d
+openshift-kni-infra                                keepalived-cnfdt05.lab.eng.tlv2.redhat.com                           2/2     Running                  18            16d
+openshift-kni-infra                                keepalived-dhcp-55-184.lab.eng.tlv2.redhat.com                       2/2     Running                  0             16d
+openshift-kni-infra                                keepalived-dhcp-55-198.lab.eng.tlv2.redhat.com                       2/2     Running                  0             16d
+openshift-kni-infra                                keepalived-dhcp-55-238.lab.eng.tlv2.redhat.com                       2/2     Running                  0             16d
+openshift-kube-apiserver-operator                  kube-apiserver-operator-68ddc9cc8c-b4g2f                             1/1     Running                  1 (16d ago)   16d
+openshift-kube-apiserver                           installer-11-dhcp-55-198.lab.eng.tlv2.redhat.com                     0/1     Completed                0             16d
+openshift-kube-apiserver                           installer-11-dhcp-55-238.lab.eng.tlv2.redhat.com                     0/1     Completed                0             16d
+openshift-kube-apiserver                           installer-12-dhcp-55-184.lab.eng.tlv2.redhat.com                     0/1     Completed                0             16d
+openshift-kube-apiserver                           installer-12-dhcp-55-198.lab.eng.tlv2.redhat.com                     0/1     Completed                0             16d
+openshift-kube-apiserver                           installer-12-dhcp-55-238.lab.eng.tlv2.redhat.com                     0/1     Completed                0             16d
+openshift-kube-apiserver                           installer-13-dhcp-55-184.lab.eng.tlv2.redhat.com                     0/1     Completed                0             15d
+openshift-kube-apiserver                           installer-13-dhcp-55-198.lab.eng.tlv2.redhat.com                     0/1     Completed                0             15d
+openshift-kube-apiserver                           installer-13-dhcp-55-238.lab.eng.tlv2.redhat.com                     0/1     Completed                0             15d
+openshift-kube-apiserver                           installer-14-dhcp-55-184.lab.eng.tlv2.redhat.com                     0/1     Completed                0             15d
+openshift-kube-apiserver                           installer-14-dhcp-55-198.lab.eng.tlv2.redhat.com                     0/1     Completed                0             15d
+openshift-kube-apiserver                           installer-14-dhcp-55-238.lab.eng.tlv2.redhat.com                     0/1     Completed                0             15d
+openshift-kube-apiserver                           installer-15-dhcp-55-184.lab.eng.tlv2.redhat.com                     0/1     Completed                0             27h
+openshift-kube-apiserver                           installer-15-dhcp-55-198.lab.eng.tlv2.redhat.com                     0/1     Completed                0             27h
+openshift-kube-apiserver                           installer-15-dhcp-55-238.lab.eng.tlv2.redhat.com                     0/1     Completed                0             27h
+openshift-kube-apiserver                           kube-apiserver-dhcp-55-184.lab.eng.tlv2.redhat.com                   5/5     Running                  0             27h
+openshift-kube-apiserver                           kube-apiserver-dhcp-55-198.lab.eng.tlv2.redhat.com                   5/5     Running                  0             27h
+openshift-kube-apiserver                           kube-apiserver-dhcp-55-238.lab.eng.tlv2.redhat.com                   5/5     Running                  0             27h
+openshift-kube-apiserver                           kube-apiserver-guard-dhcp-55-184.lab.eng.tlv2.redhat.com             1/1     Running                  0             16d
+openshift-kube-apiserver                           kube-apiserver-guard-dhcp-55-198.lab.eng.tlv2.redhat.com             1/1     Running                  0             16d
+openshift-kube-apiserver                           kube-apiserver-guard-dhcp-55-238.lab.eng.tlv2.redhat.com             1/1     Running                  0             16d
+openshift-kube-apiserver                           revision-pruner-11-dhcp-55-184.lab.eng.tlv2.redhat.com               0/1     Completed                0             16d
+openshift-kube-apiserver                           revision-pruner-11-dhcp-55-198.lab.eng.tlv2.redhat.com               0/1     Completed                0             16d
+openshift-kube-apiserver                           revision-pruner-11-dhcp-55-238.lab.eng.tlv2.redhat.com               0/1     Completed                0             16d
+openshift-kube-apiserver                           revision-pruner-12-dhcp-55-184.lab.eng.tlv2.redhat.com               0/1     Completed                0             16d
+openshift-kube-apiserver                           revision-pruner-12-dhcp-55-198.lab.eng.tlv2.redhat.com               0/1     Completed                0             16d
+openshift-kube-apiserver                           revision-pruner-12-dhcp-55-238.lab.eng.tlv2.redhat.com               0/1     Completed                0             16d
+openshift-kube-apiserver                           revision-pruner-13-dhcp-55-184.lab.eng.tlv2.redhat.com               0/1     Completed                0             15d
+openshift-kube-apiserver                           revision-pruner-13-dhcp-55-198.lab.eng.tlv2.redhat.com               0/1     Completed                0             15d
+openshift-kube-apiserver                           revision-pruner-13-dhcp-55-238.lab.eng.tlv2.redhat.com               0/1     Completed                0             15d
+openshift-kube-apiserver                           revision-pruner-14-dhcp-55-184.lab.eng.tlv2.redhat.com               0/1     Completed                0             15d
+openshift-kube-apiserver                           revision-pruner-14-dhcp-55-198.lab.eng.tlv2.redhat.com               0/1     Completed                0             15d
+openshift-kube-apiserver                           revision-pruner-14-dhcp-55-238.lab.eng.tlv2.redhat.com               0/1     Completed                0             15d
+openshift-kube-apiserver                           revision-pruner-15-dhcp-55-184.lab.eng.tlv2.redhat.com               0/1     Completed                0             27h
+openshift-kube-apiserver                           revision-pruner-15-dhcp-55-198.lab.eng.tlv2.redhat.com               0/1     Completed                0             27h
+openshift-kube-apiserver                           revision-pruner-15-dhcp-55-238.lab.eng.tlv2.redhat.com               0/1     Completed                0             27h
+openshift-kube-controller-manager-operator         kube-controller-manager-operator-56b797c67c-kmgng                    1/1     Running                  1 (16d ago)   16d
+openshift-kube-controller-manager                  installer-4-dhcp-55-184.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  installer-4-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  installer-4-dhcp-55-238.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  installer-5-dhcp-55-184.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  installer-6-dhcp-55-184.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  installer-6-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  installer-6-dhcp-55-238.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-controller-manager                  kube-controller-manager-dhcp-55-184.lab.eng.tlv2.redhat.com          4/4     Running                  0             16d
+openshift-kube-controller-manager                  kube-controller-manager-dhcp-55-198.lab.eng.tlv2.redhat.com          4/4     Running                  2 (16d ago)   16d
+openshift-kube-controller-manager                  kube-controller-manager-dhcp-55-238.lab.eng.tlv2.redhat.com          4/4     Running                  0             16d
+openshift-kube-controller-manager                  kube-controller-manager-guard-dhcp-55-184.lab.eng.tlv2.redhat.com    1/1     Running                  0             16d
+openshift-kube-controller-manager                  kube-controller-manager-guard-dhcp-55-198.lab.eng.tlv2.redhat.com    1/1     Running                  0             16d
+openshift-kube-controller-manager                  kube-controller-manager-guard-dhcp-55-238.lab.eng.tlv2.redhat.com    1/1     Running                  0             16d
+openshift-kube-controller-manager                  revision-pruner-6-dhcp-55-184.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-kube-controller-manager                  revision-pruner-6-dhcp-55-198.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-kube-controller-manager                  revision-pruner-6-dhcp-55-238.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-kube-scheduler-operator                  openshift-kube-scheduler-operator-648d6877f5-kxhpb                   1/1     Running                  1 (16d ago)   16d
+openshift-kube-scheduler                           installer-4-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-scheduler                           installer-5-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-scheduler                           installer-5-dhcp-55-238.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-scheduler                           installer-6-dhcp-55-184.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-scheduler                           installer-6-dhcp-55-198.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-scheduler                           installer-6-dhcp-55-238.lab.eng.tlv2.redhat.com                      0/1     Completed                0             16d
+openshift-kube-scheduler                           openshift-kube-scheduler-dhcp-55-184.lab.eng.tlv2.redhat.com         3/3     Running                  0             16d
+openshift-kube-scheduler                           openshift-kube-scheduler-dhcp-55-198.lab.eng.tlv2.redhat.com         3/3     Running                  0             16d
+openshift-kube-scheduler                           openshift-kube-scheduler-dhcp-55-238.lab.eng.tlv2.redhat.com         3/3     Running                  0             16d
+openshift-kube-scheduler                           openshift-kube-scheduler-guard-dhcp-55-184.lab.eng.tlv2.redhat.com   1/1     Running                  0             16d
+openshift-kube-scheduler                           openshift-kube-scheduler-guard-dhcp-55-198.lab.eng.tlv2.redhat.com   1/1     Running                  0             16d
+openshift-kube-scheduler                           openshift-kube-scheduler-guard-dhcp-55-238.lab.eng.tlv2.redhat.com   1/1     Running                  0             16d
+openshift-kube-scheduler                           revision-pruner-6-dhcp-55-184.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-kube-scheduler                           revision-pruner-6-dhcp-55-198.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-kube-scheduler                           revision-pruner-6-dhcp-55-238.lab.eng.tlv2.redhat.com                0/1     Completed                0             16d
+openshift-kube-storage-version-migrator-operator   kube-storage-version-migrator-operator-69dc566949-pr8vm              1/1     Running                  1 (16d ago)   16d
+openshift-kube-storage-version-migrator            migrator-7b74cfb5dc-4rk72                                            1/1     Running                  0             16d
+openshift-machine-api                              cluster-autoscaler-operator-6ffd8b4fb5-47f4p                         2/2     Running                  0             16d
+openshift-machine-api                              cluster-baremetal-operator-5789cff5b8-mjhhl                          2/2     Running                  0             16d
+openshift-machine-api                              machine-api-controllers-f4ff6787f-v9hw6                              7/7     Running                  0             16d
+openshift-machine-api                              machine-api-operator-6844cd8d6-9hfzz                                 2/2     Running                  0             16d
+openshift-machine-api                              metal3-775697cb95-rb8ts                                              7/7     Running                  0             16d
+openshift-machine-api                              metal3-image-cache-ffbsc                                             1/1     Running                  0             16d
+openshift-machine-api                              metal3-image-cache-mwvb9                                             1/1     Running                  0             16d
+openshift-machine-api                              metal3-image-cache-wrqtp                                             1/1     Running                  0             16d
+openshift-machine-api                              metal3-image-customization-8546c5cf74-m9vkn                          1/1     Running                  0             16d
+openshift-machine-config-operator                  machine-config-controller-bb88fccf8-n8g7m                            1/1     Running                  0             16d
+openshift-machine-config-operator                  machine-config-daemon-2v77x                                          2/2     Running                  18            16d
+openshift-machine-config-operator                  machine-config-daemon-7hzdh                                          2/2     Running                  0             16d
+openshift-machine-config-operator                  machine-config-daemon-8p44g                                          2/2     Running                  18            16d
+openshift-machine-config-operator                  machine-config-daemon-n229b                                          2/2     Running                  0             16d
+openshift-machine-config-operator                  machine-config-daemon-tc78j                                          2/2     Running                  0             16d
+openshift-machine-config-operator                  machine-config-operator-79795c9df-7ssd7                              1/1     Running                  0             16d
+openshift-machine-config-operator                  machine-config-server-8w9wl                                          1/1     Running                  0             16d
+openshift-machine-config-operator                  machine-config-server-rmfzf                                          1/1     Running                  0             16d
+openshift-machine-config-operator                  machine-config-server-zd2ml                                          1/1     Running                  0             16d
+openshift-marketplace                              certified-operators-4b4ls                                            1/1     Running                  0             14h
+openshift-marketplace                              community-operators-48h9x                                            1/1     Running                  0             3h25m
+openshift-marketplace                              marketplace-operator-6cd6c5dfc4-kd68x                                1/1     Running                  0             16d
+openshift-marketplace                              redhat-marketplace-jnb9q                                             1/1     Running                  0             14m
+openshift-marketplace                              redhat-operators-227vl                                               1/1     Running                  0             19h
+openshift-monitoring                               alertmanager-main-0                                                  6/6     Running                  0             9d
+openshift-monitoring                               alertmanager-main-1                                                  6/6     Running                  0             9d
+openshift-monitoring                               cluster-monitoring-operator-6b55bfdb7d-8hqgx                         2/2     Running                  0             16d
+openshift-monitoring                               grafana-6b56dfc486-l4pmt                                             3/3     Running                  0             9d
+openshift-monitoring                               kube-state-metrics-896d55c47-8pghb                                   3/3     Running                  0             9d
+openshift-monitoring                               node-exporter-2s5w5                                                  2/2     Running                  0             16d
+openshift-monitoring                               node-exporter-5k5mj                                                  2/2     Running                  0             16d
+openshift-monitoring                               node-exporter-p666n                                                  2/2     Running                  18            16d
+openshift-monitoring                               node-exporter-px9ff                                                  2/2     Running                  18            16d
+openshift-monitoring                               node-exporter-w6pc5                                                  2/2     Running                  0             16d
+openshift-monitoring                               openshift-state-metrics-6cd866ccc9-gj86w                             3/3     Running                  0             9d
+openshift-monitoring                               prometheus-adapter-697b9488bd-njcrg                                  1/1     Running                  0             27h
+openshift-monitoring                               prometheus-adapter-697b9488bd-q76bg                                  1/1     Running                  0             27h
+openshift-monitoring                               prometheus-k8s-0                                                     6/6     Running                  0             9d
+openshift-monitoring                               prometheus-k8s-1                                                     6/6     Running                  0             9d
+openshift-monitoring                               prometheus-operator-5874b67fd8-jfx29                                 2/2     Running                  0             16d
+openshift-monitoring                               telemeter-client-57d6f86b7b-7rxnk                                    3/3     Running                  0             9d
+openshift-monitoring                               thanos-querier-cbcd68d75-996g5                                       6/6     Running                  0             9d
+openshift-monitoring                               thanos-querier-cbcd68d75-c6wcc                                       6/6     Running                  0             9d
+openshift-multus                                   multus-59qgl                                                         1/1     Running                  0             16d
+openshift-multus                                   multus-7vbzb                                                         1/1     Running                  9             16d
+openshift-multus                                   multus-additional-cni-plugins-4d44s                                  1/1     Running                  0             16d
+openshift-multus                                   multus-additional-cni-plugins-76ps7                                  1/1     Running                  9             16d
+openshift-multus                                   multus-additional-cni-plugins-q5k5g                                  1/1     Running                  9             16d
+openshift-multus                                   multus-additional-cni-plugins-vpfnd                                  1/1     Running                  0             16d
+openshift-multus                                   multus-additional-cni-plugins-wscg7                                  1/1     Running                  0             16d
+openshift-multus                                   multus-admission-controller-5s8xn                                    2/2     Running                  0             16d
+openshift-multus                                   multus-admission-controller-dn8hd                                    2/2     Running                  0             16d
+openshift-multus                                   multus-admission-controller-xmthd                                    2/2     Running                  0             16d
+openshift-multus                                   multus-v4xl5                                                         1/1     Running                  0             16d
+openshift-multus                                   multus-vht5d                                                         1/1     Running                  9             16d
+openshift-multus                                   multus-w5xfn                                                         1/1     Running                  0             16d
+openshift-multus                                   network-metrics-daemon-2hkgh                                         2/2     Running                  18            16d
+openshift-multus                                   network-metrics-daemon-6gsg2                                         2/2     Running                  0             16d
+openshift-multus                                   network-metrics-daemon-9k69c                                         2/2     Running                  0             16d
+openshift-multus                                   network-metrics-daemon-sr2dq                                         2/2     Running                  0             16d
+openshift-multus                                   network-metrics-daemon-xfvgr                                         2/2     Running                  18            16d
+openshift-network-diagnostics                      network-check-source-865d4b5578-2tw2v                                1/1     Running                  0             9d
+openshift-network-diagnostics                      network-check-target-cz92j                                           0/1     ContainerStatusUnknown   0             13m
+openshift-network-diagnostics                      network-check-target-jx4mt                                           0/1     ContainerStatusUnknown   0             13m
+openshift-network-diagnostics                      network-check-target-sn6jr                                           1/1     Running                  0             16d
+openshift-network-diagnostics                      network-check-target-tmnhc                                           1/1     Running                  9             16d
+openshift-network-diagnostics                      network-check-target-zdqq4                                           1/1     Running                  9             16d
+openshift-network-operator                         network-operator-56dc879446-5l7s8                                    1/1     Running                  0             16d
+openshift-oauth-apiserver                          apiserver-67b5794c48-8dk4n                                           1/1     Running                  3 (16d ago)   16d
+openshift-oauth-apiserver                          apiserver-67b5794c48-g4fmp                                           1/1     Running                  3 (16d ago)   16d
+openshift-oauth-apiserver                          apiserver-67b5794c48-xnrgz                                           1/1     Running                  3 (16d ago)   16d
+openshift-operator-lifecycle-manager               catalog-operator-c4749f574-kkf7t                                     1/1     Running                  0             16d
+openshift-operator-lifecycle-manager               collect-profiles-27448575-mkw8k                                      0/1     Completed                0             32m
+openshift-operator-lifecycle-manager               collect-profiles-27448590-8npf9                                      0/1     Completed                0             17m
+openshift-operator-lifecycle-manager               collect-profiles-27448605-fpdcn                                      0/1     Completed                0             2m59s
+openshift-operator-lifecycle-manager               olm-operator-6c5f5769f8-n9b7k                                        1/1     Running                  0             16d
+openshift-operator-lifecycle-manager               package-server-manager-6f96884bcb-zvmch                              1/1     Running                  0             16d
+openshift-operator-lifecycle-manager               packageserver-576996c79d-hzhfc                                       1/1     Running                  0             16d
+openshift-operator-lifecycle-manager               packageserver-576996c79d-r2x55                                       1/1     Running                  0             16d
+openshift-ovn-kubernetes                           ovnkube-master-2lgb5                                                 6/6     Running                  6 (16d ago)   16d
+openshift-ovn-kubernetes                           ovnkube-master-bk9n4                                                 6/6     Running                  2 (16d ago)   16d
+openshift-ovn-kubernetes                           ovnkube-master-ttkj7                                                 6/6     Running                  7 (16d ago)   16d
+openshift-ovn-kubernetes                           ovnkube-node-59zfh                                                   5/5     Running                  2 (16d ago)   16d
+openshift-ovn-kubernetes                           ovnkube-node-l8x2w                                                   5/5     Running                  45            16d
+openshift-ovn-kubernetes                           ovnkube-node-ldcgn                                                   5/5     Running                  45            16d
+openshift-ovn-kubernetes                           ovnkube-node-mkldr                                                   5/5     Running                  2 (16d ago)   16d
+openshift-ovn-kubernetes                           ovnkube-node-tl7dg                                                   5/5     Running                  2 (16d ago)   16d
+openshift-service-ca-operator                      service-ca-operator-774b9fc6bf-8l6tq                                 1/1     Running                  1 (16d ago)   16d
+openshift-service-ca                               service-ca-65cf6d45b4-mb7k4                                          1/1     Running                  0             16d

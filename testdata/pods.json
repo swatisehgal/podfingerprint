@@ -1,0 +1,1038 @@
+[
+  {
+    "namespace": "numaresources",
+    "name": "numaresources-controller-manager-68b4594b44-c8kl7"
+  },
+  {
+    "namespace": "numaresources",
+    "name": "numaresourcesoperator-worker-6wbjn"
+  },
+  {
+    "namespace": "numaresources",
+    "name": "numaresourcesoperator-worker-gntmt"
+  },
+  {
+    "namespace": "numaresources",
+    "name": "secondary-scheduler-66dfbbddc7-8bg7l"
+  },
+  {
+    "namespace": "openshift-apiserver-operator",
+    "name": "openshift-apiserver-operator-5f88697795-ndvrz"
+  },
+  {
+    "namespace": "openshift-apiserver",
+    "name": "apiserver-689d47b5fc-9mhkz"
+  },
+  {
+    "namespace": "openshift-apiserver",
+    "name": "apiserver-689d47b5fc-jj6p9"
+  },
+  {
+    "namespace": "openshift-apiserver",
+    "name": "apiserver-689d47b5fc-vdlhk"
+  },
+  {
+    "namespace": "openshift-authentication-operator",
+    "name": "authentication-operator-7bd669894f-gt4cp"
+  },
+  {
+    "namespace": "openshift-authentication",
+    "name": "oauth-openshift-68f8fccb57-jf2hm"
+  },
+  {
+    "namespace": "openshift-authentication",
+    "name": "oauth-openshift-68f8fccb57-jgwwj"
+  },
+  {
+    "namespace": "openshift-authentication",
+    "name": "oauth-openshift-68f8fccb57-v56jj"
+  },
+  {
+    "namespace": "openshift-cloud-controller-manager-operator",
+    "name": "cluster-cloud-controller-manager-operator-7fb5c48c8d-26xmb"
+  },
+  {
+    "namespace": "openshift-cloud-credential-operator",
+    "name": "cloud-credential-operator-67459fd75c-zwkwg"
+  },
+  {
+    "namespace": "openshift-cluster-machine-approver",
+    "name": "machine-approver-59747d59-mfvp8"
+  },
+  {
+    "namespace": "openshift-cluster-node-tuning-operator",
+    "name": "cluster-node-tuning-operator-5dfff5f64b-8zmzr"
+  },
+  {
+    "namespace": "openshift-cluster-node-tuning-operator",
+    "name": "tuned-75mmz"
+  },
+  {
+    "namespace": "openshift-cluster-node-tuning-operator",
+    "name": "tuned-lrlrx"
+  },
+  {
+    "namespace": "openshift-cluster-node-tuning-operator",
+    "name": "tuned-pfmf7"
+  },
+  {
+    "namespace": "openshift-cluster-node-tuning-operator",
+    "name": "tuned-x2dqf"
+  },
+  {
+    "namespace": "openshift-cluster-node-tuning-operator",
+    "name": "tuned-xcz2n"
+  },
+  {
+    "namespace": "openshift-cluster-samples-operator",
+    "name": "cluster-samples-operator-56c696b89b-krfp4"
+  },
+  {
+    "namespace": "openshift-cluster-storage-operator",
+    "name": "cluster-storage-operator-65f46cb7d7-hjsjm"
+  },
+  {
+    "namespace": "openshift-cluster-storage-operator",
+    "name": "csi-snapshot-controller-868bc48b4c-9t82g"
+  },
+  {
+    "namespace": "openshift-cluster-storage-operator",
+    "name": "csi-snapshot-controller-868bc48b4c-sgcxm"
+  },
+  {
+    "namespace": "openshift-cluster-storage-operator",
+    "name": "csi-snapshot-controller-operator-77d8847d54-76pzn"
+  },
+  {
+    "namespace": "openshift-cluster-storage-operator",
+    "name": "csi-snapshot-webhook-84f4c4d7bc-2jkc7"
+  },
+  {
+    "namespace": "openshift-cluster-storage-operator",
+    "name": "csi-snapshot-webhook-84f4c4d7bc-zvk88"
+  },
+  {
+    "namespace": "openshift-cluster-version",
+    "name": "cluster-version-operator-55c4f4d4f4-nlm2c"
+  },
+  {
+    "namespace": "openshift-config-operator",
+    "name": "openshift-config-operator-b45b6d6f7-4ppd4"
+  },
+  {
+    "namespace": "openshift-console-operator",
+    "name": "console-operator-765fd847c6-mxkdp"
+  },
+  {
+    "namespace": "openshift-console",
+    "name": "console-78bf6f6fdb-kvjzk"
+  },
+  {
+    "namespace": "openshift-console",
+    "name": "console-78bf6f6fdb-wnznb"
+  },
+  {
+    "namespace": "openshift-console",
+    "name": "downloads-777fbb54b5-tx8sl"
+  },
+  {
+    "namespace": "openshift-console",
+    "name": "downloads-777fbb54b5-xz5qg"
+  },
+  {
+    "namespace": "openshift-controller-manager-operator",
+    "name": "openshift-controller-manager-operator-688cc6f8c6-rh5dn"
+  },
+  {
+    "namespace": "openshift-controller-manager",
+    "name": "controller-manager-5nt85"
+  },
+  {
+    "namespace": "openshift-controller-manager",
+    "name": "controller-manager-bzz9s"
+  },
+  {
+    "namespace": "openshift-controller-manager",
+    "name": "controller-manager-jwqdp"
+  },
+  {
+    "namespace": "openshift-dns-operator",
+    "name": "dns-operator-6b9895bbbf-mfpzv"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "dns-default-77kqz"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "dns-default-8b5cf"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "dns-default-fznt7"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "dns-default-lqhk5"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "dns-default-tw79f"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "node-resolver-9tqf2"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "node-resolver-bnpkx"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "node-resolver-cb67h"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "node-resolver-cqtv2"
+  },
+  {
+    "namespace": "openshift-dns",
+    "name": "node-resolver-ttt62"
+  },
+  {
+    "namespace": "openshift-etcd-operator",
+    "name": "etcd-operator-77859568c6-4d76m"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "etcd-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "etcd-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "etcd-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "etcd-quorum-guard-7d8dc4bd99-kb5mx"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "etcd-quorum-guard-7d8dc4bd99-kmp4x"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "etcd-quorum-guard-7d8dc4bd99-m8pvv"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-6-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-8-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-8-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-8-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-9-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-9-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "installer-9-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "revision-pruner-8-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "revision-pruner-8-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "revision-pruner-8-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "revision-pruner-9-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "revision-pruner-9-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-etcd",
+    "name": "revision-pruner-9-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "cluster-image-registry-operator-69d4968f7f-g9gvv"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "image-pruner-27444960-lsqc8"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "image-pruner-27446400-l95cd"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "image-pruner-27447840-lprlg"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "image-registry-56bbfb649f-zqhkg"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "node-ca-8n24d"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "node-ca-bvnct"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "node-ca-n79pt"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "node-ca-tzxqm"
+  },
+  {
+    "namespace": "openshift-image-registry",
+    "name": "node-ca-xlfcr"
+  },
+  {
+    "namespace": "openshift-ingress-canary",
+    "name": "ingress-canary-456dp"
+  },
+  {
+    "namespace": "openshift-ingress-canary",
+    "name": "ingress-canary-shxrv"
+  },
+  {
+    "namespace": "openshift-ingress-operator",
+    "name": "ingress-operator-5b5869957-cfvjh"
+  },
+  {
+    "namespace": "openshift-ingress",
+    "name": "router-default-7df789767f-2qs25"
+  },
+  {
+    "namespace": "openshift-ingress",
+    "name": "router-default-7df789767f-wvdp4"
+  },
+  {
+    "namespace": "openshift-insights",
+    "name": "insights-operator-7647c4f8c-dqs8b"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "coredns-cnfdt04.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "coredns-cnfdt05.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "coredns-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "coredns-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "coredns-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "haproxy-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "haproxy-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "haproxy-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "keepalived-cnfdt04.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "keepalived-cnfdt05.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "keepalived-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "keepalived-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kni-infra",
+    "name": "keepalived-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver-operator",
+    "name": "kube-apiserver-operator-68ddc9cc8c-b4g2f"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-11-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-11-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-12-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-12-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-12-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-13-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-13-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-13-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-14-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-14-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-14-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-15-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-15-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "installer-15-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "kube-apiserver-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "kube-apiserver-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "kube-apiserver-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "kube-apiserver-guard-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "kube-apiserver-guard-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "kube-apiserver-guard-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-11-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-11-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-11-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-12-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-12-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-12-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-13-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-13-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-13-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-14-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-14-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-14-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-15-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-15-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-apiserver",
+    "name": "revision-pruner-15-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager-operator",
+    "name": "kube-controller-manager-operator-56b797c67c-kmgng"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-4-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-4-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-4-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-5-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-6-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-6-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "installer-6-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "kube-controller-manager-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "kube-controller-manager-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "kube-controller-manager-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "kube-controller-manager-guard-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "kube-controller-manager-guard-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "kube-controller-manager-guard-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "revision-pruner-6-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "revision-pruner-6-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-controller-manager",
+    "name": "revision-pruner-6-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler-operator",
+    "name": "openshift-kube-scheduler-operator-648d6877f5-kxhpb"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "installer-4-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "installer-5-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "installer-5-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "installer-6-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "installer-6-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "installer-6-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "openshift-kube-scheduler-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "openshift-kube-scheduler-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "openshift-kube-scheduler-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "openshift-kube-scheduler-guard-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "openshift-kube-scheduler-guard-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "openshift-kube-scheduler-guard-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "revision-pruner-6-dhcp-55-184.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "revision-pruner-6-dhcp-55-198.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-scheduler",
+    "name": "revision-pruner-6-dhcp-55-238.lab.eng.tlv2.redhat.com"
+  },
+  {
+    "namespace": "openshift-kube-storage-version-migrator-operator",
+    "name": "kube-storage-version-migrator-operator-69dc566949-pr8vm"
+  },
+  {
+    "namespace": "openshift-kube-storage-version-migrator",
+    "name": "migrator-7b74cfb5dc-4rk72"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "cluster-autoscaler-operator-6ffd8b4fb5-47f4p"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "cluster-baremetal-operator-5789cff5b8-mjhhl"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "machine-api-controllers-f4ff6787f-v9hw6"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "machine-api-operator-6844cd8d6-9hfzz"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "metal3-775697cb95-rb8ts"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "metal3-image-cache-ffbsc"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "metal3-image-cache-mwvb9"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "metal3-image-cache-wrqtp"
+  },
+  {
+    "namespace": "openshift-machine-api",
+    "name": "metal3-image-customization-8546c5cf74-m9vkn"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-controller-bb88fccf8-n8g7m"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-daemon-2v77x"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-daemon-7hzdh"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-daemon-8p44g"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-daemon-n229b"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-daemon-tc78j"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-operator-79795c9df-7ssd7"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-server-8w9wl"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-server-rmfzf"
+  },
+  {
+    "namespace": "openshift-machine-config-operator",
+    "name": "machine-config-server-zd2ml"
+  },
+  {
+    "namespace": "openshift-marketplace",
+    "name": "certified-operators-4b4ls"
+  },
+  {
+    "namespace": "openshift-marketplace",
+    "name": "community-operators-48h9x"
+  },
+  {
+    "namespace": "openshift-marketplace",
+    "name": "marketplace-operator-6cd6c5dfc4-kd68x"
+  },
+  {
+    "namespace": "openshift-marketplace",
+    "name": "redhat-marketplace-jnb9q"
+  },
+  {
+    "namespace": "openshift-marketplace",
+    "name": "redhat-operators-227vl"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "alertmanager-main-0"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "alertmanager-main-1"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "cluster-monitoring-operator-6b55bfdb7d-8hqgx"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "grafana-6b56dfc486-l4pmt"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "kube-state-metrics-896d55c47-8pghb"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "node-exporter-2s5w5"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "node-exporter-5k5mj"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "node-exporter-p666n"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "node-exporter-px9ff"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "node-exporter-w6pc5"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "openshift-state-metrics-6cd866ccc9-gj86w"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "prometheus-adapter-697b9488bd-njcrg"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "prometheus-adapter-697b9488bd-q76bg"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "prometheus-k8s-0"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "prometheus-k8s-1"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "prometheus-operator-5874b67fd8-jfx29"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "telemeter-client-57d6f86b7b-7rxnk"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "thanos-querier-cbcd68d75-996g5"
+  },
+  {
+    "namespace": "openshift-monitoring",
+    "name": "thanos-querier-cbcd68d75-c6wcc"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-59qgl"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-7vbzb"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-additional-cni-plugins-4d44s"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-additional-cni-plugins-76ps7"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-additional-cni-plugins-q5k5g"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-additional-cni-plugins-vpfnd"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-additional-cni-plugins-wscg7"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-admission-controller-5s8xn"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-admission-controller-dn8hd"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-admission-controller-xmthd"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-v4xl5"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-vht5d"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "multus-w5xfn"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "network-metrics-daemon-2hkgh"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "network-metrics-daemon-6gsg2"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "network-metrics-daemon-9k69c"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "network-metrics-daemon-sr2dq"
+  },
+  {
+    "namespace": "openshift-multus",
+    "name": "network-metrics-daemon-xfvgr"
+  },
+  {
+    "namespace": "openshift-network-diagnostics",
+    "name": "network-check-source-865d4b5578-2tw2v"
+  },
+  {
+    "namespace": "openshift-network-diagnostics",
+    "name": "network-check-target-cz92j"
+  },
+  {
+    "namespace": "openshift-network-diagnostics",
+    "name": "network-check-target-jx4mt"
+  },
+  {
+    "namespace": "openshift-network-diagnostics",
+    "name": "network-check-target-sn6jr"
+  },
+  {
+    "namespace": "openshift-network-diagnostics",
+    "name": "network-check-target-tmnhc"
+  },
+  {
+    "namespace": "openshift-network-diagnostics",
+    "name": "network-check-target-zdqq4"
+  },
+  {
+    "namespace": "openshift-network-operator",
+    "name": "network-operator-56dc879446-5l7s8"
+  },
+  {
+    "namespace": "openshift-oauth-apiserver",
+    "name": "apiserver-67b5794c48-8dk4n"
+  },
+  {
+    "namespace": "openshift-oauth-apiserver",
+    "name": "apiserver-67b5794c48-g4fmp"
+  },
+  {
+    "namespace": "openshift-oauth-apiserver",
+    "name": "apiserver-67b5794c48-xnrgz"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "catalog-operator-c4749f574-kkf7t"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "collect-profiles-27448575-mkw8k"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "collect-profiles-27448590-8npf9"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "collect-profiles-27448605-fpdcn"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "olm-operator-6c5f5769f8-n9b7k"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "package-server-manager-6f96884bcb-zvmch"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "packageserver-576996c79d-hzhfc"
+  },
+  {
+    "namespace": "openshift-operator-lifecycle-manager",
+    "name": "packageserver-576996c79d-r2x55"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-master-2lgb5"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-master-bk9n4"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-master-ttkj7"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-node-59zfh"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-node-l8x2w"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-node-ldcgn"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-node-mkldr"
+  },
+  {
+    "namespace": "openshift-ovn-kubernetes",
+    "name": "ovnkube-node-tl7dg"
+  },
+  {
+    "namespace": "openshift-service-ca-operator",
+    "name": "service-ca-operator-774b9fc6bf-8l6tq"
+  },
+  {
+    "namespace": "openshift-service-ca",
+    "name": "service-ca-65cf6d45b4-mb7k4"
+  }
+]
