@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/k8stopologyawareschedwg/podfingerprint.svg)](https://pkg.go.dev/github.com/k8stopologyawareschedwg/podfingerprint)
+
 # podfingerprint: compute the fingerprint of a set of pods
 
 This package computes the fingerprint of a set of [kubernetes pods](https://kubernetes.io/docs/concepts/workloads/pods).
