@@ -1,4 +1,4 @@
-module github.com/k8stopologyawarewg/podfingerprint
+module github.com/k8stopologyawareschedwg/podfingerprint
 
 go 1.17
 
