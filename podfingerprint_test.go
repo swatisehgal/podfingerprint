@@ -267,19 +267,19 @@ func TestCheck(t *testing.T) {
 		{
 			description:   "incompatible version",
 			pods:          pods,
-			fingerprint:   "pfp0v000e477a4e3b2fc0ec6",
+			fingerprint:   "pfp0v000e477a4e3b2fc0ec6ca5ac5405eb01edf896fa26e",
 			expectedError: ErrIncompatibleVersion,
 		},
 		{
 			description:   "wrong fingerprint",
 			pods:          pods,
-			fingerprint:   "pfp0v001e477abb123fc0ec1",
+			fingerprint:   "pfp0v001e477abb123fc0ec1ca5ac5405eb01edf896fa26e",
 			expectedError: ErrSignatureMismatch,
 		},
 		{
 			description: "correct fingerprint",
 			pods:        pods,
-			fingerprint: "pfp0v001e477a4e3b2fc0ec6", // precomputed and validated manually
+			fingerprint: "pfp0v0018084ac20b4d7bd2fca5ac5405eb01edf896fa26e", // precomputed and validated manually
 		},
 	}
 

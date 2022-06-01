@@ -30,11 +30,11 @@
 package podfingerprint
 
 import (
+	xxhash "crypto/sha1"
+	"encoding/binary"
 	"encoding/hex"
 	"fmt"
 	"sort"
-
-	"github.com/OneOfOne/xxhash"
 )
 
 const (
@@ -53,7 +53,7 @@ const (
 const (
 	expectedPrefixLen  = 4
 	expectedVersionLen = 4
-	minimumSumLen      = 8
+	minimumSumLen      = 16
 )
 
 var (
@@ -112,7 +112,7 @@ func (fp *Fingerprint) Add(namespace, name string) error {
 // content of the pod set is stable.
 func (fp *Fingerprint) Sum() []byte {
 	sort.Sort(uvec64(fp.hashes))
-	h := xxhash.New64()
+	h := xxhash.New()
 	b := make([]byte, 8)
 	for _, hash := range fp.hashes {
 		h.Write(putUint64(b, hash))
@@ -157,10 +157,7 @@ func (fp *Fingerprint) Check(sign string) error {
 // this is for speed not for code reuse. This helper can be inlined easily
 func (fp *Fingerprint) addHash(namespace, name string) {
 	fp.hashes = append(fp.hashes,
-		xxhash.ChecksumString64S(
-			name,
-			xxhash.ChecksumString64(namespace),
-		),
+		binary.LittleEndian.Uint64([]byte(name+namespace)),
 	)
 }
 
