@@ -279,7 +279,7 @@ func TestCheck(t *testing.T) {
 		{
 			description: "correct fingerprint",
 			pods:        pods,
-			fingerprint: "pfp0v0017baf1ebd1e887b6f", // precomputed and validated manually
+			fingerprint: "pfp0v001d2cea00aa866782a", // precomputed and validated manually
 		},
 	}
 

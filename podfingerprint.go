@@ -157,7 +157,7 @@ func (fp *Fingerprint) Check(sign string) error {
 // this is for speed not for code reuse. This helper can be inlined easily
 func (fp *Fingerprint) addHash(namespace, name string) {
 	fp.hashes = append(fp.hashes,
-		xxhash.Sum64String(name+namespace),
+		xxhash.Sum64String(name)+xxhash.Sum64String(namespace),
 	)
 }
 
